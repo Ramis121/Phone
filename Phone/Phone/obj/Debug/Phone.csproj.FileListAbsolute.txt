@@ -1,0 +1,5 @@
+C:\Users\wolfr\source\repos\Phone\Phone\obj\Debug\Phone.csprojAssemblyReference.cache
+C:\Users\wolfr\source\repos\Phone\Phone\obj\Debug\MainWindow.g.cs
+C:\Users\wolfr\source\repos\Phone\Phone\obj\Debug\App.g.cs
+C:\Users\wolfr\source\repos\Phone\Phone\obj\Debug\Phone_MarkupCompile.cache
+C:\Users\wolfr\source\repos\Phone\Phone\obj\Debug\Phone_MarkupCompile.lref
